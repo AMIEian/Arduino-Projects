@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Scrolling_Display", "Scrolling_Display.cppproj", "{7006F5ED-8732-4067-A6C6-EFA2682BF6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7006F5ED-8732-4067-A6C6-EFA2682BF6AD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7006F5ED-8732-4067-A6C6-EFA2682BF6AD}.Debug|AVR.Build.0 = Debug|AVR
+		{7006F5ED-8732-4067-A6C6-EFA2682BF6AD}.Release|AVR.ActiveCfg = Release|AVR
+		{7006F5ED-8732-4067-A6C6-EFA2682BF6AD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

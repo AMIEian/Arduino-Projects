@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "MobileRemote", "MobileRemote\MobileRemote.cppproj", "{6A82D711-2AAA-4664-86F9-8D319D4D3196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A82D711-2AAA-4664-86F9-8D319D4D3196}.Debug|AVR.ActiveCfg = Debug|AVR
+		{6A82D711-2AAA-4664-86F9-8D319D4D3196}.Debug|AVR.Build.0 = Debug|AVR
+		{6A82D711-2AAA-4664-86F9-8D319D4D3196}.Release|AVR.ActiveCfg = Release|AVR
+		{6A82D711-2AAA-4664-86F9-8D319D4D3196}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

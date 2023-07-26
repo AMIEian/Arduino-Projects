@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "DoorController", "DoorController.cppproj", "{CF1648C4-AB8D-4434-8DBD-F9627CCC9575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF1648C4-AB8D-4434-8DBD-F9627CCC9575}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CF1648C4-AB8D-4434-8DBD-F9627CCC9575}.Debug|AVR.Build.0 = Debug|AVR
+		{CF1648C4-AB8D-4434-8DBD-F9627CCC9575}.Release|AVR.ActiveCfg = Release|AVR
+		{CF1648C4-AB8D-4434-8DBD-F9627CCC9575}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
